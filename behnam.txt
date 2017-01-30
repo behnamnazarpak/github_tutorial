@@ -1,0 +1,10 @@
+First Test
+
+<<<<<<< HEAD
+wrong text
+=======
+wrong tet
+
+
+add more text
+>>>>>>> parent of 83f5f24... tet fix to text in behnam.txt

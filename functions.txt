@@ -1,0 +1,6 @@
+add
+subtract
+divide
+multiple
+log
+jabr
